@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 # Output files
-output/
 
 # Environments
 .venv/
